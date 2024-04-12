@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Climate change metrics",
+      "description": "Measurable changes to ice caps in Arctic waters",
+      "date_created": "October 17, 2023",
+      "user_id": 1
+    },
+    {
+      "title": "Atomospheric CO2 levels rising in agricultural areas ",
+      "description": "Combustion emissions and land management failures stressing atmosphere in rural areas..",
+      "date_created": "February 2, 2024",
+      "user_id": 2
+    },
+    {
+      "title": "EV transporation options under political attack",
+      "description": "US progress in electric vehicle development slowed by political pandering",
+      "date_created": "December 5, 2023",
+      "user_id": 3
+    }
+  ]

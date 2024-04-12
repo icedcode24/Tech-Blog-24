@@ -1,0 +1,38 @@
+[
+    {
+      "comment_body": "electric or gas?",
+      "date_created": "January 1, 2024",
+      "user_id": 1,
+      "blogPost_id": 3
+    },
+    {
+      "comment_body": "whose fault is it?",
+      "date_created": "February 2, 2024",
+      "user_id": 3,
+      "blogPost_id": 1
+    },
+    {
+      "comment_body": "is global warming a thing?",
+      "date_created": "March 28, 2024",
+      "user_id": 1,
+      "blogPost_id": 3
+    },
+    {
+      "comment_body": "NCAA final four picks?",
+      "date_created": "june 14, 2024",
+      "user_id": 1,
+      "blogPost_id": 2
+    },
+    {
+      "comment_body": "Next topic...",
+      "date_created": "March 6, 2024",
+      "user_id": 3,
+      "blogPost_id": 1
+    },
+    {
+      "comment_body": "whats the 5-day weather forecast?",
+      "date_created": "March 30, 2024",
+      "user_id": 1,
+      "blogPost_id": 3
+    }
+  ]
